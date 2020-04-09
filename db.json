@@ -11,7 +11,7 @@
   "profile": {
     "name": "typicode"
   },
-  "efNumberGenerated": [
-    { "id": 1, "EfNumber": "EF-4712" }
-  ]
+  "efNumberGenerated": {
+    "EfNumber": "EF-4712" 
+  }
 }
